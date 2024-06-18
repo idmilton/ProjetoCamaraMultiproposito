@@ -6,9 +6,13 @@ Na pasta do projeto serão compartilhados:
 - O desenho da tampa
 - O código em C para compilar a placa ESP32
 - O código e QR code para instalar a rotina do phyphox
+- Acesso ao download do phyphox via play store:
+https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 
-- 
+- Link para instalar a rotina da câmara no phyphox: ![qrcode](https://github.com/idmilton/ProjetoCamaradeFermentacao/assets/4228326/1f8532e8-ed62-4440-877a-6af60a6e4338)
+
+  
 ![montagem-circuitocamara (1)](https://github.com/idmilton/ProjetoCamaradeFermentacao/assets/4228326/0f64366b-bcc5-4a4e-afe2-adbe33601fd8)
-![qrcode](https://github.com/idmilton/ProjetoCamaradeFermentacao/assets/4228326/1f8532e8-ed62-4440-877a-6af60a6e4338)
+
 ![fotoscamara (2)](https://github.com/idmilton/ProjetoCamaradeFermentacao/assets/4228326/bdaf7b45-1d86-4c5c-b1a1-0e512224c5bd)
 ![figura-camaraesquema (2)](https://github.com/idmilton/ProjetoCamaradeFermentacao/assets/4228326/6f8f4dab-28e8-49c2-9bea-6d238cda58b6)

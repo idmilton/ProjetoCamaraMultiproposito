@@ -9,7 +9,8 @@ Na pasta do projeto serão compartilhados:
 - Acesso ao download do phyphox via play store:
 https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 
-- Link para instalar a rotina da câmara no phyphox: ![qrcode](https://github.com/idmilton/ProjetoCamaradeFermentacao/assets/4228326/1f8532e8-ed62-4440-877a-6af60a6e4338)
+- Link para instalar a rotina da câmara no phyphox: ![qrcode](https://github.com/idmilton/ProjetoCamaradeFermentacao/assets/4228326/add11f5b-7950-4f25-8b3e-5885d3639b37)
+
 
   
 ![montagem-circuitocamara (1)](https://github.com/idmilton/ProjetoCamaradeFermentacao/assets/4228326/0f64366b-bcc5-4a4e-afe2-adbe33601fd8)
